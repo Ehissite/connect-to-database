@@ -1,4 +1,4 @@
-<h3>Connecting to the database using object oriented programming.</h3> <br>;
+<h3>Connecting to the database using object oriented programming.</h3> 
 this is made portable and can be used in any project to make a connection with the database, and read from it or write into it.<br>;
         $host     = "insert the host name for example localhost or mysiteexample.com"; <br>;
 	$username = "the default username is root unless you set it to preference";<br>;
