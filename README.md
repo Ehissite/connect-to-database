@@ -1,5 +1,5 @@
 Connecting to the database using object oriented programming. this is made portable and can be used in any project to make a connection with the database, and read from it or write into it.
-  $host     = "insert the host name for example localhost or mysiteexample.com"; 
+        $host     = "insert the host name for example localhost or mysiteexample.com"; <br>;
 	$username = "the default username is root unless you set it to preference";
 	$password = "leave empty or set it to preference";
 	$database = "Insert MySQL database name";
